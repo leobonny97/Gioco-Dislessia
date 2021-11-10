@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family: sans-serif;  /*font testo*/
+	font-size: 100%;  /*dimensioni testo*/
+	color: green;     /*colore testo*/
+	line-height: 1.5; /*spazio tra un blocco e un altro*/
+	text-decoration: none;  /*decorazione testo*/
+	background-color: transparent; /*colore background*/
+	text-align: center; /*allineamento testo*/
+	margin: 0px 0px 0px 0px; /*margini tra un contenuto e un altro*/
+	padding: 0px 0px 0px 0px; /*spazio tra contenuto e bordo*/
+	border: 1px solid green;
+	}
+
+header{
+	 text-align: center;
+	 border-top: 1px solid green;
+	 border-bottom: 1px solid green;
+}
+
+#logo{
+	max-height: 1000px;
+    width: 200px; 
+}
+
+section{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	width: 100%;
+	border: 1px solid green;
+}
+
+p.unita{
+	display: inline-block;
+	font-size: 130%;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px; 
+	width: 32%;
+}
+
+table, th, td {
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+
+#news{
+	border-top: 1px solid green;
+}
+
+table{
+	margin-left:auto; 
+	margin-right:auto;
+	
+}

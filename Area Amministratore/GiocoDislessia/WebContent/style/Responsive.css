@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+
+@media screen and (max-width: 600px) {
+	
+	#centro1{
+	display: none;
+	}
+	
+	#centro2{
+	display: none;
+	}
+	
+	#sinistra1, #destra1, #sinistra2, #destra2{
+	width: 49%;
+	}
+}
+
+	
+@media screen and (max-width: 400px) {
+    table{
+	font-size: 70%;
+	}
+	
+	#menu1{
+	display: none;
+	}
+	
+	#news{
+	display: none;
+	}
+	
+	#centro1{
+	display: none;
+	}
+	
+	#centro2{
+	display: none;
+	}
+	
+	#sinistra1, #destra1, #sinistra2, #destra2{
+	width: 99%;
+	}
+	
+
+}
